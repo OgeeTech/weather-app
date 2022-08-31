@@ -1,2 +1,1 @@
-# weather-app
-weather app with dark mode
+# Weather-App with HTML, CSS and JavaScript
